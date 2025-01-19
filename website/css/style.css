@@ -1,0 +1,13 @@
+.body {
+    font-family: "Poppins", serif;
+  }
+  
+.banner{
+    background-image: url(./White\ Minimalist\ Profile\ LinkedIn\ Banner.png);
+    background-size:cover;
+    padding: 230px 0;
+}
+
+.skills-padding{
+  padding: 70px 0;
+}
